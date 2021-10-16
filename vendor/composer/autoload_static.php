@@ -399,6 +399,7 @@ class ComposerStaticInit9f8258d9d81c73b99262e062a300def4
 
     public static $classMap = array (
         'App\\Kernel' => __DIR__ . '/../..' . '/src/Kernel.php',
+        'App\\Tests\\DatabasePrimer' => __DIR__ . '/../..' . '/tests/DatabasePrimer.php',
         'App\\Tests\\StockTest' => __DIR__ . '/../..' . '/tests/StockTest.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Composer\\InstalledVersions' => __DIR__ . '/..' . '/composer/InstalledVersions.php',

@@ -1,22 +1,22 @@
 <?php return array(
     'root' => array(
-        'pretty_version' => 'dev-master',
-        'version' => 'dev-master',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
-        'reference' => 'cdc7b5c01c36a7ace4a9790b959e1be8250bdb29',
+        'reference' => '9901cf690239a4ce1966bbb895d2ba26fa8a2ae8',
         'name' => '__root__',
         'dev' => true,
     ),
     'versions' => array(
         '__root__' => array(
-            'pretty_version' => 'dev-master',
-            'version' => 'dev-master',
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
-            'reference' => 'cdc7b5c01c36a7ace4a9790b959e1be8250bdb29',
+            'reference' => '9901cf690239a4ce1966bbb895d2ba26fa8a2ae8',
             'dev_requirement' => false,
         ),
         'composer/package-versions-deprecated' => array(

@@ -7,6 +7,7 @@ $baseDir = dirname($vendorDir);
 
 return array(
     'App\\Kernel' => $baseDir . '/src/Kernel.php',
+    'App\\Tests\\DatabasePrimer' => $baseDir . '/tests/DatabasePrimer.php',
     'App\\Tests\\StockTest' => $baseDir . '/tests/StockTest.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
     'Composer\\InstalledVersions' => $vendorDir . '/composer/InstalledVersions.php',
